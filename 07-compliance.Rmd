@@ -1,0 +1,12 @@
+# ETHICAL STATEMENTS {#compliance}
+
+**Conflict of interest:** All authors declare that they have no conflict of
+interest.
+
+**Compliance with Ethical Standards:** All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or national research committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards. Informed consent was obtained from all individual participants included in the study.
+
+**Author contribution:** AZ conceived and designed the research. LSK, EB, RH and CR conducted the clinical study and participated in the design of the study. CZ and CR processed and analyzed the samples. RS contributed to the HDL isolation method and assisted in conducting the study. CZ and AZ analyzed the data. CZ and AZ wrote the manuscript. All authors read and approved the manuscript.
+
+**Informed consent:** Informed consent was obtained from all individual participants included in the study.
+
+**Data availability statement**: The datasets generated during and/or analyzed during the current study are available in the Metabolomics Workbench repository (study ID ST001151).

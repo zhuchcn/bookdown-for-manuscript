@@ -1,0 +1,53 @@
+---
+title: "The HDL lipidome is widely remodeled by fast food vs. Mediterranean diet in four days"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [references.bib]
+#biblio-style: "apalike"
+csl: "metabolomics.csl"
+link-citations: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+```
+
+\usepackage{mathtools}
+
+\newline\newline
+
+$\text{Chenghao Zhu}^{\text{a}}$, $\text{Lisa Sawrey-Kubicek}^{\text{a}}$, $\text{Elizabeth Beals}^{\text{a}}$, $\text{Riley L. Hughes}^{\text{a}}$, $\text{Chris H. Rhodes}^{\text{a}}$, $\text{Romina Sacchi}^{\text{a}}$, $\text{Angela M. Zivkovic}^{\text{a*}}$
+
+\newline\newline
+
+${}^{\text{a}}$Department of Nutrition, University of California, Davis, Davis, CA, USA 95616.
+
+\newline\newline
+
+${}^{\text{*}}$To whom correspondence should be addressed.
+
+\newline\newline
+
+**Emails:** chhzhu@ucdavis.edu; lsawreykubicek@ucdavis.edu; egbeals@ucdavis.edu; rlhughes@ucdavis.edu; chrhodes@ucdavis.edu; myuwong@ucdavis.edu; qyuli@ucdavis.edu; rsacchi@ucdavis.edu; cblebrilla@ucdavis.edu; amzivkovic@ucdavis.edu;  
+
+\newline\newline
+
+**Abbreviations:**
+PL: phospholipid,
+PC: phosphatidylcholine,
+PE: phosphatidylethanolamine,
+LPC: lysophosphatidylcholine,
+LPE: lysophosphatidylethanolamine,
+SM: sphingomyelin,
+Cer: ceramide,
+CE: cholesteryl ester,
+FC: free cholesterol,
+TG: triacylglycerol,
+DG: diacylglycerol,
+OCFA: odd chain fatty acid,
+CVD: cardiovascular disease,
+T2D: type 2 Diabetes,
+FF: fast food,
+Med: Mediterranean,
+$\text{EOD}_{\text{18}}$: equivalent of double bonds per 18 carbons,
+ACL: average carbon chain length

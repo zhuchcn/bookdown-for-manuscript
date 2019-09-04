@@ -1,0 +1,2 @@
+bookdown::word_document2:
+    reference_docx: "ref-doc.docx"

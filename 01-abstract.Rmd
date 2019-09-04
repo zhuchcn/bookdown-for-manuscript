@@ -1,0 +1,8 @@
+# ABSTRACT {#abstract}
+**Introduction:** HDL is associated with increased longevity and protection from multiple chronic diseases. The major HDL protein ApoA-I has a half-life of about 4 days, however, the effects of diet on the composition of HDL particles at this time scale have not been studied. 
+**Objectives:** The objective of this study is to investigate the short term dietary effect on HDL lipidomic composition.
+**Methods:** In this randomized order cross-over study, ten healthy subjects consumed a Mediterranean (Med) and a fast food (FF) diet for 4 days, with a 4-day wash-out between treatments. Lipidomic composition was analyzed in isolated HDL fractions by an untargeted LC-MS method with 15 internal standards.
+**Results:** HDL PE content was increased by FF diet, and 41 out of 170 lipid species were differentially affected by diet. Saturated fatty acids (FA) and odd chain FA were enriched after FF diet, while very-long chain FA and unsaturated FA were enriched after Med diet. The composition of PC, TG and CE were significantly altered to reflect the FA composition of the diet whereas the composition of SM and ceramides were generally unaffected. 
+**Conclusion:** Results from this study indicate that the HDL lipidome is widely remodeled within 4 days of diet change and that certain lipid classes are more sensitive markers of diet whereas other lipid classes are better indicators of non-dietary factors.
+
+**Keywords:** High-Density Lipoprotein; Lipidomics; Fast Food Diet; Mediterranean Diet

@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.vscode
+supplement
+src
+img/pdf
+__pycache__
+_book/*
+.DS_Store
