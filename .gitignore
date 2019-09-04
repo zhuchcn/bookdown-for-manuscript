@@ -4,7 +4,6 @@
 .Ruserdata
 .vscode
 supplement
-src
 img/pdf
 __pycache__
 _book/*
